@@ -1,0 +1,81 @@
+Microsoft Windows [Version 10.0.19042.804]
+(c) 2020 Microsoft Corporation. All rights reserved.
+
+C:\Users\luudr>mkdir assignments/Tillman/1
+The syntax of the command is incorrect.
+
+C:\Users\luudr>mkdir assignments
+
+C:\Users\luudr>cd
+C:\Users\luudr
+
+C:\Users\luudr>cd/assignments
+The system cannot find the path specified.
+
+C:\Users\luudr>cd /assignments
+The system cannot find the path specified.
+
+C:\Users\luudr>mkdir assignments/Tillman/1
+The syntax of the command is incorrect.
+
+C:\Users\luudr>cd
+C:\Users\luudr
+
+C:\Users\luudr>cd /
+
+C:\>assignments
+'assignments' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>mkdir assignments
+
+C:\>mkdir assignments/Tillman/1
+The syntax of the command is incorrect.
+
+C:\>ls -l
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>mkdir /assignments/Tillman/1
+The syntax of the command is incorrect.
+
+C:\>mkdir /tmp/
+The syntax of the command is incorrect.
+
+C:\>cd tmp
+The system cannot find the path specified.
+
+C:\>pwd
+'pwd' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>mkdir /
+The syntax of the command is incorrect.
+
+C:\>mkdir assignments
+A subdirectory or file assignments already exists.
+
+C:\>mkdir assignments Tillman1
+A subdirectory or file assignments already exists.
+Error occurred while processing: assignments.
+
+C:\>mkdir assignments  T
+A subdirectory or file assignments already exists.
+Error occurred while processing: assignments.
+
+C:\>mkdir assignments/Tillman1
+The syntax of the command is incorrect.
+
+C:\>mkdir assignmentsTillman1
+
+C:\>mkdir assignments/Tillman1/
+The syntax of the command is incorrect.
+
+C:\>mkdir assignments/Tillman1
+The syntax of the command is incorrect.
+
+C:\>

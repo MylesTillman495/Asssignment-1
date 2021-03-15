@@ -1,0 +1,54 @@
+Microsoft Windows [Version 10.0.19042.804]
+(c) 2020 Microsoft Corporation. All rights reserved.
+
+C:\Users\luudr>$ mkdir myapp
+'$' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\luudr>mkdir myapp
+A subdirectory or file myapp already exists.
+
+C:\Users\luudr>cd myapp
+
+C:\Users\luudr\myapp>npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (myapp) npm install express --save
+Sorry, name can only contain URL-friendly characters.
+package name: (myapp) npm init install express
+Sorry, name can only contain URL-friendly characters.
+package name: (myapp) express
+version: (1.0.0)
+description:
+entry point: (index.js)
+test command:
+git repository:
+keywords:
+author:
+license: (ISC)
+About to write to C:\Users\luudr\myapp\package.json:
+
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
+Is this OK? (yes) yes
+
+C:\Users\luudr\myapp>
